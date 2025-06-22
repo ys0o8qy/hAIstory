@@ -1,11 +1,11 @@
 {
   "extensionDescription": {
     "description": "Extension description",
-    "message": "Chrome extension boilerplate developed with Vite, React and Typescript"
+    "message": "use AI to auto-summarize visited websites"
   },
   "extensionName": {
-    "description": "Extension name",
-    "message": "Chrome extension boilerplate"
+    "description": "use AI to auto-summarize visited websites",
+    "message": "hAIStory"
   },
   "toggleTheme": {
     "message": "Toggle theme"
